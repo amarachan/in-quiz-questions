@@ -80,8 +80,8 @@ HTML Assessment
 - `<audio> and <video>`
 
 #### 11. What is NOT a valid attribute for the `<textarea>` element?
-- readonly => CORRECT
-- max
+- readonly 
+- max => CORRECT
 - from 
 - spellcheck
 
