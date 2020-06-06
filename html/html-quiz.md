@@ -39,9 +39,9 @@ HTML Assessment
 
 #### Q7. The value attribute is associated with which set of tags?
 - `<button><input><form>`
-- `<inout><label><meter>`<<<<CORRECT
+- `<inout><label><meter>`
 - `<inout><option><textarea>`
-- `<li><input><option>`
+- `<li><input><option>` <<<<CORRECT
   
 #### Q8. What should fill the two blanks in the HTML code below?
 ```css
